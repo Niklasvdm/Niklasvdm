@@ -3,7 +3,7 @@ Hi there 👋 I’m Niklas
 I’m a Security Architect & Software Developer passionate about secure systems, creative automation, and design that just makes sense.
 
 # 👨‍💻 About Me
-🔐 Currently working as a Security Architect — bridging the gap between compliance (GDPR, NIST, DORA) and practical, technical security.
+🔐 Currently working as a Security Architect — bridging the gap between compliance (GDPR, NIST, DORA) and practical, technical security. <br> 
 🧠 Obsessed with security architecture, automation pipelines, and making compliance actually usable.
 🧰 Building tools that blend Bash, Python, and infrastructure automation to secure modern environments (from Azure to homelabs).
 🧩 On the creative side, I run a small product line for minimalist pictogram stickers — blending design, production, and marketing.
