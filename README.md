@@ -24,7 +24,7 @@ Homelab setups, network segmentation, and running your own CA.
 Balancing engineering with creativity (design, branding, and product building).
 
 # 📫 How to Reach Me
-🌐 nvdm.eu
+🌐 [nvdm.eu](https://www.nvdm.eu)
 
 # ⚡ Fun Fact
 
